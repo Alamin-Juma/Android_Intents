@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="add_courses">Add Courses</string>
+    <string name="my_courses">my courses</string>
+    <string name="majors">Majors</string>
+    <string name="Add_Courses">Add courses</string>
+    <string name="enter_course_name">Enter course name</string>
+    <string name="enter_the_course">Enter the course</string>
+</resources>
